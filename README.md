@@ -14,7 +14,7 @@ A web-based version of the classic **Simon Game** that tests and improves your m
 - **CSS** – Styling and animations  
 - **JavaScript** – Game logic and user interaction
 
-## 📂 How to Run
+## How to Run
 1. Clone this repository  
 2. Open `index.html` in your browser  
 3. Follow the instructions and start playing!
